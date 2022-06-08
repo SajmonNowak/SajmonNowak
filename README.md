@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Sajmon 👋
+
+I am a self-taught developer from Bochum, Germany.
+Always eager to explore, learn something new and collaborate.
+Currently looking for a full-time job opportunity 🔭
+
+- 🔭 I’m currently working on an app to share bucketlists with friends. 
+- 🌱 I’m currently learning Redux & Chakra UI
+- 📫 How to reach me: nowak.sajmon@gmail.com
+
+
+
 
 <!--
 **SajmonNowak/SajmonNowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
