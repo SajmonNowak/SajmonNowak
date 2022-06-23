@@ -9,7 +9,7 @@ Currently looking for a full-time job opportunity ⚡
 <img align="right" src="./imgs/giphy.gif" width="250px" height="200px"/>
 
 - 🔭 Creating a small app to share bucketlists with friends
-- 🌱 I’m currently learning Redux & Chakra UI
+- 🌱 I’m currently learning TypeScript & Redux
 - 📫 How to reach me: nowak.sajmon@gmail.com
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/sajmon-nowak-483067167/)
 </div>
